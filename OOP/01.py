@@ -35,6 +35,10 @@ print(yueyue.course)
 
 # 需要注意的是  此处没有传入参数
 yueyue.doHomework()
+print(PythonStudent.__dict__)
+
+
+
 
 
 
